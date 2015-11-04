@@ -10,24 +10,8 @@ namespace FinalProject
     {
         static void Main(string[] args)
         {
-           
-        }
-        public void MethodA()
-        {
             Console.WriteLine("Method A");
-        }
-        public void MethodB()
-        {
-            Console.WriteLine("Method B");
-        }
-        public void MethodC()
-        {
-            Console.WriteLine("Method C");
 
-        }
-        public void MethodD()
-        {
-            Console.WriteLine("Method D");
         }
 
     }
