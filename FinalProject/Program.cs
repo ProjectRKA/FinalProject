@@ -23,5 +23,9 @@ namespace FinalProject
         {
             Console.WriteLine("Method C");
         }
+        public void MethodD()
+        {
+            Console.WriteLine("Method D");
+        }
     }
 }
