@@ -10,8 +10,10 @@ namespace FinalProject
     {
         static void Main(string[] args)
         {
+        }
+        public void MethodA()
+        {
             Console.WriteLine("Method A");
-
         }
 
     }
