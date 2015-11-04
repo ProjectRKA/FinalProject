@@ -15,6 +15,10 @@ namespace FinalProject
         {
             Console.WriteLine("Method A");
         }
+        public void MethodB()
+        {
+            Console.WriteLine("Method B");
+        }
 
     }
 }
